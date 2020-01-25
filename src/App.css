@@ -32,8 +32,7 @@ header h1 {
   outline: none;
   border: 2px solid #140d0b;
   border-radius: 1em;
-  transition: transform 0.3s;
-  will-change: transform;
+  transition: all 0.2s;
 }
 
 .rolldice--control:hover,
